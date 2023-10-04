@@ -1,6 +1,5 @@
 
 <h1 align="center">Hey everyone 👋, I'm Tushar Kumar Panda</h1>
-<div align="center"><img src="https://github.com/tusharkumarpanda/tusharkumarpanda/main/image.png"></div>
 <h3 align="center">A Passionate Software Developer From India</h3>
 
 <img align="right" alt="coding" width="380"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
