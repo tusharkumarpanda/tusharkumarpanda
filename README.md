@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Tushar Kumar Panda</h1>
+<h1 align="center">Hii 👋, I'm Tushar Kumar Panda</h1>
 <h3 align="center">A Passionate Software Developer From India</h3>
 
 <img align="right" alt="coding" width="380"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
